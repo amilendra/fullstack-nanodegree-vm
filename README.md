@@ -15,8 +15,10 @@ Requirements
 Usage
 ------
 * Database Setup : Login to the psql environment and run the following command
+
 psql => \i tournament.sql
 
 * Running the Program
+
 python tournament_test.py
 
